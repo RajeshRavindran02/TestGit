@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 My First Git Learning
 
 My Git first update
+
+My First Git Learning
+
